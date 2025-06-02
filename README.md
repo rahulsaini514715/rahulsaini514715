@@ -85,7 +85,7 @@
 
 ### 📺 Coding GIF Vibes
 <p align="center">
-  <img src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif" alt="coding gif" width="500"/>
+  <img src="https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif" alt="coding gif" />
 </p>
 
 ---
