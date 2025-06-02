@@ -1,4 +1,4 @@
-![logo](https://marketplace.canva.com/EAE7AbabFNY/1/0/1600w/canva-blue-gold-elegant-minimalist-digital-marketer-linkedin-banner-yFznKtTfH0U.jpg)
+![logo](https://github.com/rahulsaini514715/rahulsaini514715/blob/main/background_profile_banner.jpg?raw=true)
 <h1 align="center">Hi 👋, I'm Rahul saini</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
