@@ -18,7 +18,7 @@
 - 💬 Ask me about **MERN stack,javascript, REST APIs**
 - 👨‍💻 All of my projects are available at [GitHub Repos](https://github.com/rahulsaini514715?tab=repositories)
 - 💼 Looking for full-stack developer roles
-- 📫 How to reach me: **rahulsaini514715@gmail.com**
+- 📫 How to reach me: **sksaini514715@gmail.com**
 - ⚡ Fun fact: I love learn new technologies and watching *Taarak Mehta Ka Ooltah Chashmah* 😄
 
 ---
@@ -35,7 +35,7 @@
 ### 🌐 Connect with me:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/rahulsaini514715/" target="blank">
+  <a href="https://www.linkedin.com/in/rahul-saini-50893625a/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" />
   </a>
   <a href="https://instagram.com/sainirahul_1504" target="blank">
@@ -56,8 +56,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -76,9 +74,7 @@
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🔧 Pushed code to `rahulsaini514715/event-booking-app`
-2. 🎉 Starred `openai/openai-node`
-3. 💬 Commented on issue in `vercel/vercel`
+1. 🔧 Pushed code to `rahulsaini514715/Ecommerce-website`
 <!--END_SECTION:activity-->
 
 ---
@@ -93,8 +89,8 @@
 ### 📌 Featured Projects
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [BookEvent](https://bookevent.com) | Online Event Management System | HTML, CSS, JavaScript, MongoDB, Node.js |
-| [Portfolio](https://github.com/rahulsaini514715/portfolio) | My developer portfolio | React, Tailwind CSS |
+| [ECommerce Website](https://ecommerce-website-rahul-saini.netlify.app/) | Ecommerce website | HTML, CSS, JavaScript, MongoDB, Node.js,React ,Redux|
+| [Portfolio](https://rahul-saini-portfolio-1.netlify.app/) | My developer portfolio | React, Tailwind CSS |
 
 ---
 
