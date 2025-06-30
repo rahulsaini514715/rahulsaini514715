@@ -14,12 +14,12 @@
 
 ### 👨‍💻 About Me:
 
-- 🌱 I’m currently learning **Next.js, Docker & System Design**
-- 💬 Ask me about **MERN stack, Java, Spring Boot, REST APIs**
+- 🌱 I’m currently learning **Angular,java,spring**
+- 💬 Ask me about **MERN stack,javascript, REST APIs**
 - 👨‍💻 All of my projects are available at [GitHub Repos](https://github.com/rahulsaini514715?tab=repositories)
 - 💼 Looking for full-stack developer roles
 - 📫 How to reach me: **rahulsaini514715@gmail.com**
-- ⚡ Fun fact: I love solving DSA problems and watching *Taarak Mehta Ka Ooltah Chashmah* 😄
+- ⚡ Fun fact: I love learn new technologies and watching *Taarak Mehta Ka Ooltah Chashmah* 😄
 
 ---
 
